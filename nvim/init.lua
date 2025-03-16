@@ -1,6 +1,3 @@
--- Learn about Neovim's lua api
--- https://neovim.io/doc/user/lua-guide.html
-
 vim.o.number = true
 vim.o.tabstop = 2
 vim.o.shiftwidth = 2
